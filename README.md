@@ -9,7 +9,7 @@ Before diving into tech, I spent over six years in manufacturing as an extrusion
 On this profile, you'll find projects that reflect my journey in:
 
 - Backend development (Node.js, Python, SQL)
-- Web technologies (React, TypeScript)
+- Web technologies (React, JavaScript)
 - Automation and practical problem-solving
 
 I'm especially interested in backend development and building things that actually solve real-world problems. I enjoy learning by doing, and I’m always curious to try new tools and technologies.
