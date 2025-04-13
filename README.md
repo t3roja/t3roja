@@ -2,19 +2,16 @@ Hi there! 👋
 
 Welcome to my GitHub profile!
 
-I am an IT student at Oulu University of Applied Sciences, currently pursuing a Bachelor of Engineering in Information Technology, with an expected graduation in 2027. My journey into tech follows six years of experience as an extrusion line operator, where I honed skills in problem-solving, efficiency, and teamwork.
+I'm Jani, an IT student at Oulu University of Applied Sciences. My studies are nearing completion – only the internship phase remains – and I'm currently working toward my Bachelor of Engineering in Information Technology (expected graduation: 2027).
 
-Here, you'll find projects and code that showcase my learning and growth as a developer, with a focus on:
+Before diving into tech, I spent over six years in manufacturing as an extrusion line operator. That experience gave me a practical mindset, strong problem-solving skills, and a hands-on approach that I now bring into software development.
 
-    Software Development
-    Automation
-    Backend and Frontend Technologies
+On this profile, you'll find projects that reflect my journey in:
 
-I am passionate about blending technical skills with real-world problem-solving, and I look forward to exploring more in the world of programming and technology.
+- Backend development (Node.js, Python, SQL)
+- Web technologies (React, TypeScript)
+- Automation and practical problem-solving
 
-Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to collaborate or chat about coding!
+I'm especially interested in backend development and building things that actually solve real-world problems. I enjoy learning by doing, and I’m always curious to try new tools and technologies.
 
-<!---
-t3roja/t3roja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for stopping by — feel free to explore my repos or reach out if you want to connect!
